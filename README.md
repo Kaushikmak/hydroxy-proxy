@@ -1,6 +1,4 @@
-<center><h1>Hydroxy-Proxy</h1></center>
-
-<center><img src="./media/intro.png" style="width: 400px;" alt="Description"></center>
+<p align="center"><img src="./media/intro.png" style="width: 400px;" alt="Description"></p>
 
 ![Language](https://img.shields.io/badge/C-17-blue)
 ![Concurrency](https://img.shields.io/badge/Pthreads-Multi--Threaded-blueviolet)
